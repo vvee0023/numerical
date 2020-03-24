@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    flex-direction: row;
+}
+li{
+    list-style-type: none ;
+    padding :30px;
+    width: 100 px;
+}
